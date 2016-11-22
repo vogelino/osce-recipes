@@ -1,0 +1,20 @@
+{
+  "name": "OSCE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vogelino/osce-recipes.git"
+  },
+  "keywords": [],
+  "author": "Lucas Vogel <contact@vogelino.com> (http://vogelino.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vogelino/osce-recipes/issues"
+  },
+  "homepage": "https://github.com/vogelino/osce-recipes#readme"
+}
